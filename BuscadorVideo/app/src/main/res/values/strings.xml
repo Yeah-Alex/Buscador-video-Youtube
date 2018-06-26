@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buscador de videos</string>
+    <string name="sugerencias">Buscar video</string>
+    <string name="key">abcdefg123456</string>
+</resources>
